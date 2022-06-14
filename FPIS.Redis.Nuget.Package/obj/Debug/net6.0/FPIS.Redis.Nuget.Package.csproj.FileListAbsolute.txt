@@ -1,0 +1,12 @@
+C:\Users\Pavle Curcic\source\repos\fpis-repo\FPIS.Redis.Nuget.Package\obj\Debug\net6.0\FPIS.Redis.Nuget.Package.csproj.AssemblyReference.cache
+C:\Users\Pavle Curcic\source\repos\fpis-repo\FPIS.Redis.Nuget.Package\obj\Debug\net6.0\FPIS.Redis.Nuget.Package.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavle Curcic\source\repos\fpis-repo\FPIS.Redis.Nuget.Package\obj\Debug\net6.0\FPIS.Redis.Nuget.Package.AssemblyInfoInputs.cache
+C:\Users\Pavle Curcic\source\repos\fpis-repo\FPIS.Redis.Nuget.Package\obj\Debug\net6.0\FPIS.Redis.Nuget.Package.AssemblyInfo.cs
+C:\Users\Pavle Curcic\source\repos\fpis-repo\FPIS.Redis.Nuget.Package\obj\Debug\net6.0\FPIS.Redis.Nuget.Package.csproj.CoreCompileInputs.cache
+C:\Users\Pavle Curcic\source\repos\fpis-repo\FPIS.Redis.Nuget.Package\bin\Debug\net6.0\FPIS.Redis.Nuget.Package.deps.json
+C:\Users\Pavle Curcic\source\repos\fpis-repo\FPIS.Redis.Nuget.Package\bin\Debug\net6.0\FPIS.Redis.Nuget.Package.dll
+C:\Users\Pavle Curcic\source\repos\fpis-repo\FPIS.Redis.Nuget.Package\bin\Debug\net6.0\FPIS.Redis.Nuget.Package.pdb
+C:\Users\Pavle Curcic\source\repos\fpis-repo\FPIS.Redis.Nuget.Package\obj\Debug\net6.0\FPIS.Redis.Nuget.Package.dll
+C:\Users\Pavle Curcic\source\repos\fpis-repo\FPIS.Redis.Nuget.Package\obj\Debug\net6.0\refint\FPIS.Redis.Nuget.Package.dll
+C:\Users\Pavle Curcic\source\repos\fpis-repo\FPIS.Redis.Nuget.Package\obj\Debug\net6.0\FPIS.Redis.Nuget.Package.pdb
+C:\Users\Pavle Curcic\source\repos\fpis-repo\FPIS.Redis.Nuget.Package\obj\Debug\net6.0\ref\FPIS.Redis.Nuget.Package.dll
