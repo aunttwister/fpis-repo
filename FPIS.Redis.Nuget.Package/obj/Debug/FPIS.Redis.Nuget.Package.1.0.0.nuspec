@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>FPIS.Redis.Nuget.Package</id>
+    <version>1.0.0</version>
+    <authors>FPIS.Redis.Nuget.Package</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Newtonsoft.Json" version="13.0.1" exclude="Build,Analyzers" />
+        <dependency id="StackExchange.Redis" version="2.6.45" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Pavle Curcic\source\repos\fpis-repo\FPIS.Redis.Nuget.Package\bin\Debug\net6.0\FPIS.Redis.Nuget.Package.dll" target="lib\net6.0\FPIS.Redis.Nuget.Package.dll" />
+  </files>
+</package>
